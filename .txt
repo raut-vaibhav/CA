@@ -1,0 +1,3 @@
+react icons
+npm install lucide-react
+@inertiajs/react
